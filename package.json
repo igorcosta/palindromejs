@@ -1,0 +1,26 @@
+{
+  "name": "palindromejs",
+  "version": "1.0.0",
+  "description": "Simple implementation of Palindrome checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorcosta/palindromejs.git"
+  },
+  "keywords": [
+    "palindromejs",
+    "palindrome"
+  ],
+  "author": "Igor Costa",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/igorcosta/palindromejs/issues"
+  },
+  "homepage": "https://github.com/igorcosta/palindromejs#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
